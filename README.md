@@ -6,11 +6,17 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 전자제품 판매 사이트
-
-![메인페이지1](https://user-images.githubusercontent.com/93497987/167706118-1ad16833-2428-4d40-a088-774583da370f.png)
-![image](https://user-images.githubusercontent.com/93497987/167706986-7e475cc3-c7e9-412e-b85d-dafbabc1604f.png)
-
-![image](https://user-images.githubusercontent.com/93497987/167706943-17f74e65-229b-4ece-96ad-018525c3adae.png)
+![image](https://user-images.githubusercontent.com/93497987/167707075-e7584d65-e790-4f5b-a8cd-d86310624ea4.png)
+![image](https://user-images.githubusercontent.com/93497987/167707081-b8af0317-44d1-4c02-a069-5bca0c71cf08.png)
+![image](https://user-images.githubusercontent.com/93497987/167707088-a302eb98-d59f-4028-a39b-8d08c17108a8.png)
+![image](https://user-images.githubusercontent.com/93497987/167707098-ed8f8a63-7f40-4531-8533-3856cc2694c1.png)
+![image](https://user-images.githubusercontent.com/93497987/167707149-a2be9f8f-03c0-4e0b-9972-ac815d13a879.png)
+![image](https://user-images.githubusercontent.com/93497987/167707169-484a3c0b-c5df-492f-9591-89f9116e3f6d.png)
+![image](https://user-images.githubusercontent.com/93497987/167707184-c1452643-e0b1-4e93-8c12-397712325b94.png)
+![image](https://user-images.githubusercontent.com/93497987/167707208-bb8ed258-f653-4c6c-9d56-9b028c8ab327.png)
+![image](https://user-images.githubusercontent.com/93497987/167707216-1216ee63-0d9f-480d-af3c-c59637b0b9c4.png)
+![image](https://user-images.githubusercontent.com/93497987/167707220-4f1ca169-8cbd-4471-82a7-0deebfc48799.png)
+![게시판 상세](https://user-images.githubusercontent.com/93497987/167707281-92d5382d-4c5c-44ba-a726-617c43191ceb.png)
 
 
 ## 개발 환경 설정
