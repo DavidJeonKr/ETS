@@ -32,7 +32,7 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 
 ## 기여 방법
 
-1. (<https://github.com/yourname/yourproject/fork>)을 포크합니다.
+1. (<https://github.com/DavidJeonKr/ETS/fork>)을 포크합니다.
 2. (`git checkout -b feature/main`) 명령어로 새 브랜치를 만드세요.
 3. (`git commit -am 'Add some main'`) 명령어로 커밋하세요.
 4. (`git push origin feature/main`) 명령어로 브랜치에 푸시하세요. 
