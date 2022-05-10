@@ -8,13 +8,14 @@
 전자제품 판매 사이트
 
 ![메인페이지1](https://user-images.githubusercontent.com/93497987/167706118-1ad16833-2428-4d40-a088-774583da370f.png)
+![image](https://user-images.githubusercontent.com/93497987/167706986-7e475cc3-c7e9-412e-b85d-dafbabc1604f.png)
+
+![image](https://user-images.githubusercontent.com/93497987/167706943-17f74e65-229b-4ece-96ad-018525c3adae.png)
 
 
 ## 개발 환경 설정
-
-모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
-
 ```sh
+cd server ->
 yarn dev
 ```
 
